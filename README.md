@@ -1,3 +1,9 @@
+# Why did I fork this branch?
+
+The original gem is not currently being actively maintained. There was a required fix needed to make the gem work when using on Rails 5+ and I ahve created a pull request but it has not yet been merged. I have merged that branch and forked the repo so I can maintain it further if I run into future problems in Rails 6+.
+
+---
+
 # FlexboxRb
 
 FlexBoxRb is a wrapper for the awesome gryd system from [@kristoferjoseph](https://github.com/kristoferjoseph), original project can be found here: https://github.com/kristoferjoseph/flexboxgrid.
