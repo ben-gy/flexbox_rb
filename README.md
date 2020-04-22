@@ -18,7 +18,7 @@ Plus, with our custom methods you don't have to write `<div class="box"></div>` 
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'flexbox_rb'
+gem 'flexbox_rb', github: 'ben-gy/flexbox_rb'
 ```
 
 And then execute:
