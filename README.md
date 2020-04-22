@@ -1,6 +1,6 @@
 # Why did I fork this repo?
 
-The original gem is not currently being actively maintained. There was a required fix needed to make the gem work when using on Rails 5+ and I have created a pull request but it has not yet been merged. I have merged that branch and forked the repo so I can maintain it further if I run into future problems in Rails 6+.
+The original gem is not currently being actively maintained. There was a required fix needed to make the gem work when using on Rails 5+ and I have created a pull request but it has not yet been merged. I have merged that branch and forked the repo so I can maintain it further if I run into future problems in future versions of Rails.
 
 ---
 
